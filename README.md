@@ -45,5 +45,5 @@ I learn the program from this web (https://blog.crowdbotics.com/build-chat-app-w
 <br> Written by : Prawida Yumia (4210191005)
 
 <br> You can reach me through email at prawidayumia@gmail.com. 
-<br>I write in some platform, but not about tech. Not yet.
+<br>I write in some platform too, but not about tech. Not yet.
 
