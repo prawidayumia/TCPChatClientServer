@@ -16,9 +16,9 @@ But refer to https://socket.io/docs/v3/server-api/index.html. They explain Socke
 
 <br>![TCP Client Server - Mind Map Program Explain](https://user-images.githubusercontent.com/56972989/124792542-46641b00-df77-11eb-89a7-031c5cd967b1.png)
 
-<br> Here we have 3 parts as the main program. Those are Server.js as server Script.js as client and index.html as an interface to show the chat program. I write in every line’s comments of codes explained using Bahasa. In short, I use Express and Socket.io as the library for transferring data systems. NPM provides that. We can install it by Windows Power Shell. Messages you send will be displayed on every page of the player you open, how? It uses emit.io for broadcast to all clients. But we use socket,
+<br> Here we have 3 parts as the main program. Those are Server.js as server Script.js as client and index.html as an interface to show the chat program. I write in every line’s comments of codes explained using Bahasa. In short, I use Express and Socket.io as the library for transferring data systems. NPM provides that. We can install it by Windows Power Shell. Messages you send will be displayed on every page of the player you open, how? It uses emit.io for broadcast to all clients. But we use socket.emit to display history chat to new user. It use to private chat between server to clients.
 
-<br> This program using java as a language and Node.js as the server. Picture 2- Simple Flow I attach below is simply explaining about the program in short. At first, we use socket.emit to the client that joins by now.  
+<br> This program using java as a language and Node.js as the server. Picture 2- Mind Map I attach above is simply explaining about the program in short. At first, we use socket.emit to the client that joins by now.  
 
 # Result/Program Output
 Activate the program
