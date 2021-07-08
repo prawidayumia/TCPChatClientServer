@@ -5,8 +5,6 @@
 <br> We use Socket.io for the data transfer process system. Socket.io itself, is a library that allows real-time, event-based communication in Node.js and browser-based applications. Uses the implementation of WebSockets protocol. But, is socket.io implement TCP or UDP? What is the difference between TCP and UDP? TCP is a connection-oriented protocol, whereas UDP is a connectionless protocol. The speed for TCP is slower while the speed of UDP is faster. TCP uses handshake protocols like SYN, SYN-ACK, ACK while UDP uses no handshake protocols. (guru99.com)
 <br> In my program, it's implementing to be TCP protocol refer to Stack Over Flow discussion about Socket.io. So from the client's perspective, it uses TCP.
 
-<br>![Is Socket IO TCP or UDP](https://user-images.githubusercontent.com/56972989/124790859-bbceec00-df75-11eb-86ea-bc76acf872ab.jpeg)
-
 <br> And what about WebSockets that I mention before? WebSockets allows you to communicate between a client and a server in a nonstandard way. With WebSockets, there is an open connection established between the client and the server. This open connection makes it possible for both of them to communicate instantly.
 But refer to https://socket.io/docs/v3/server-api/index.html. They explain Socket doesn’t relate directly to the actual underlying TCP/IP socket and it is only the name of the class
 
