@@ -10,6 +10,10 @@
 <br> And what about WebSockets that I mention before? WebSockets allows you to communicate between a client and a server in a nonstandard way. With WebSockets, there is an open connection established between the client and the server. This open connection makes it possible for both of them to communicate instantly.
 But refer to https://socket.io/docs/v3/server-api/index.html. They explain Socket doesn’t relate directly to the actual underlying TCP/IP socket and it is only the name of the class
 
+# Flowchart
+<br> Here is the flow between Client and Server
+<br> ![Flowchart Client Server](https://user-images.githubusercontent.com/56972989/124849852-c2874e80-dfc9-11eb-81e0-914b2b5a25b4.png)
+
 # Mind Map Program Explain
 
 > Simple flow of how the app works. Plus it can save the chat history also changing the index of the player
