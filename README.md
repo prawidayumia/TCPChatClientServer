@@ -10,7 +10,7 @@ But refer to https://socket.io/docs/v3/server-api/index.html. They explain Socke
 
 # Flowchart
 <br> Here is the flow between Client and Server
-<br> ![Flowchart Client Server](https://user-images.githubusercontent.com/56972989/124849852-c2874e80-dfc9-11eb-81e0-914b2b5a25b4.png)
+<br> ![Flowchart Client Server](https://user-images.githubusercontent.com/56972989/124861217-54e51d80-dfdd-11eb-85db-abefd8b631bc.png)
 
 # Mind Map Program Explain
 
